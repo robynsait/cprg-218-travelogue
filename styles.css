@@ -10,6 +10,10 @@ header {
     margin-bottom: 20px;
 }
 
+header img {
+    max-width: 10%;
+}
+
 h2, h3 {
     font-family: "Pacifico", serif;
     color: #E398B1
