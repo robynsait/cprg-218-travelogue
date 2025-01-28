@@ -12,6 +12,7 @@ header {
 
 header img {
     max-width: 10%;
+    width: 100%;
 }
 
 h2, h3 {
@@ -43,7 +44,7 @@ section {
 }
 
 section img {
-    max-width: 50%
+    max-width: 50%;
 }
 
 figcaption {
