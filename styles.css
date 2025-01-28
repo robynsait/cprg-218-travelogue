@@ -1,3 +1,56 @@
 h1 {
-    color: red;
+    color: white;
+    font-family: "Belanosima", serif;
+}
+
+header {
+    text-align: center;
+    background-color: #E398B1;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    font-family: "Belanosima", serif;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    font-family: "Poppins", serif;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    gap: 2rem;
+}
+
+section {
+    text-align: center;
+    border-style: solid;
+    flex: 1;
+}
+
+section img {
+    max-width: 50%
+}
+
+figcaption {
+    font-family: "Poppins", serif;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+    border-style: solid;
+    
+}
+
+footer {
+    background-color: #E398B1;
+    font-family: "Poppins", serif;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
 }
